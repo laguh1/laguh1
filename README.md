@@ -3,7 +3,7 @@
 Engineering Manager building distributed engineering teams — and, increasingly, building the tools that help me run them well.
 
 - 🧭 Currently: Engineering Manager leading a Frontend engineering organisation across multiple domains
-- 🛠️ Built an AI-powered EM Ecosystem (Claude API) that automates engineering-management workflows — performance reviews, promotions, capacity planning, and project planning
+- 🛠️ Built an AI-powered EM Ecosystem (Claude API) that partially automates engineering-management workflows (still needs manager review and iteration) — performance reviews, promotions, capacity planning, and project planning
 - 📊 Also personally built a predictive project-forecasting tool that analyses trends across meetings, tickets, and specs to generate timeline and delivery-risk insights I share with my team and leadership
 - 📱 [Hooky](https://github.com/laguh1/hooky-android) — an Android app for crochet/fiber-craft project tracking (Kotlin, Jetpack Compose, Room, Hilt, CameraX, ML Kit OCR)
 - 🧩 [Pandora Box](https://github.com/laguh1/pandora-box) — a Chrome extension for organizing and quick-accessing your favorite sites (React, Vite, Manifest V3)
